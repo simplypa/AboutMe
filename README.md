@@ -2,7 +2,7 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning Master of information technology in university of melbourne
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1012233721@qq.com
+- 📫 How to reach me mitchellzhang0527@gmail.com
 
 <!---
 simplypa/simplypa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
