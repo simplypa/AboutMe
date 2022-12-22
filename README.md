@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simplypa
-- 👀 I’m interested in java
-- 🌱 I’m currently learning Master of information technology in university of melbourne
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in java,html, css, js, node.js, React,Python
+- 🌱 I’m currently learning Master of information technology in The University of Melbourne
+- 💞️ I’m looking to collaborate on Full stack developer
 - 📫 How to reach me mitchellzhang0527@gmail.com
 
 <!---
